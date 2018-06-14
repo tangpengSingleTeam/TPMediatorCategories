@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TPMediatorCategories_Example' do
+  pod 'TPMediatorCategories', :path => '../'
+
+  target 'TPMediatorCategories_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
