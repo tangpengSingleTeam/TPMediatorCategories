@@ -1,0 +1,6 @@
+framework module TPMediatorCategories {
+  umbrella header "TPMediatorCategories-umbrella.h"
+
+  export *
+  module * { export * }
+}

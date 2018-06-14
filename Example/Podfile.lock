@@ -1,0 +1,16 @@
+PODS:
+  - TPMediatorCategories (0.1.0)
+
+DEPENDENCIES:
+  - TPMediatorCategories (from `../`)
+
+EXTERNAL SOURCES:
+  TPMediatorCategories:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TPMediatorCategories: c14fde04d26f3979069c7658b82d3625185e2169
+
+PODFILE CHECKSUM: 276cd00bbd8336a4492c3d0a4af65159ec6c3a48
+
+COCOAPODS: 1.5.3

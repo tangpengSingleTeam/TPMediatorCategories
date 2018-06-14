@@ -1,0 +1,22 @@
+{
+  "name": "TPMediatorCategories",
+  "version": "0.1.0",
+  "summary": "A short description of TPMediatorCategories.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/939329334@qq.com/TPMediatorCategories",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "939329334@qq.com": "939329334@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/939329334@qq.com/TPMediatorCategories.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TPMediatorCategories/Classes/**/*"
+}
